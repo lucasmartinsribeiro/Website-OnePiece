@@ -1,0 +1,23 @@
+header{
+    background: black;
+}
+
+.about{
+    background: #fff;
+}
+
+.text{
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+.footer{
+    background: black;
+}
+
+.footer p{
+    color: #fff;
+}

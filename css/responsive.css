@@ -1,0 +1,36 @@
+@media (max-width: 945px){
+    .content .division{
+       display: block;
+    }
+
+    .character{
+        padding: 50px 50px 50px 146px;
+    }
+
+    .image{
+        padding: 50px 50px 50px 185px;
+    }
+}
+
+@media (min-width: 300px){
+    .character{
+        padding: 50px 50px 50px 46px;
+    }
+
+    .image{
+        padding: 50px 50px 50px 45px;
+    }
+}
+
+@media (max-width: 952px){
+    .header{
+        width: 98%;
+    }
+}
+
+@media (max-width: 830px){
+   .nav li{
+       display: block;
+       margin-right: 267px;
+   }
+}

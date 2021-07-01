@@ -1,0 +1,65 @@
+header{
+    background: #fff;
+    border-bottom: 5px solid black;
+}
+
+ol{
+    text-align: center;
+    font-size: 25px;
+}
+
+a {
+    color: red;
+}
+
+a:hover{
+    color: black;
+}
+
+.content{
+    background: red;
+    border-bottom: 5px solid black;
+    max-width: none;
+}
+
+.content .division{
+    display: flex;
+    padding: 20px;
+}
+
+.division{
+    display: flex;
+    margin: 0 auto;
+}
+
+.character{
+    flex: 1;
+    padding: 50px 50px 50px 0;
+}
+
+.character thead{
+    background: #fff;
+    border: solid;
+    color: black;
+}
+
+.character td{
+    background-color: #fff;
+}
+
+.image{
+    flex: 1;
+}
+
+.image img{
+    width: 450px;
+    height: 450px
+}
+
+.footer{
+    background: #fff;
+}
+
+.footer p{
+    color: red;
+}
